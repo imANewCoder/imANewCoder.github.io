@@ -1,0 +1,55 @@
+#headings {
+    text-align: center;
+    background: red;
+    border: 50px solid #6B6B6B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+    color: white;
+}
+#reference {
+    text-align: center;
+    background: black;;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+html {
+    width: 100%;
+    background-size: 1000px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0NtfJD7XZ53CUhLw_84Wv-bJaG4xTmzaA02gVOshlKu_PYp0")
+}
+a {
+    color: white;
+}
+.intro {
+    background: #6B6B6B;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-family: 'Courier New';;
+    text-indent: 25px;
+}
+.firstPost {
+    background: #6B6B6B;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-family: 'Courier New';;
+    text-indent: 25px;
+}
+#blogTitle {
+    text-align: center;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#caption {
+    text-align: center;
+}
+
